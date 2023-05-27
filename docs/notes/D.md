@@ -1,17 +1,15 @@
 ---
 id: 8maqhf25xq7xgeatfb9vzw2
-title: D
+title: G part (i)
 desc: ''
-updated: 1685190035262
+updated: 1685190104201
 created: 1685174614215
 ---
 
 
 |               **THE PROBLEM**         | What frontend library/framework will you use for a static portfolio website?         |
 |--------------------------------------|------------------------------------------------------------------------------------|
-|               **Context**             |                                                                                                                                             |
-|                                        | A static portfolio website is not very complex and hence requires a framework that is easy to implement and integrate.                                                                                                                                            |
-
+|               **Context**             | A static portfolio website is not very complex and hence requires a framework that is easy to implement and integrate.                                                                                                                                            |
 | **OPTIONS CONSIDERED (Decision in bold)** |                                                                                        |
 |                                      | 1. **Vue Js**                                                                           |
 |                                      | 2. React                                                                            |
