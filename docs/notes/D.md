@@ -2,16 +2,15 @@
 id: 8maqhf25xq7xgeatfb9vzw2
 title: D
 desc: ''
-updated: 1685189844389
+updated: 1685189877855
 created: 1685174614215
 ---
 
 
-|--------------------------------------|------------------------------------------------------------------------------------|
 |               **THE PROBLEM**         | What frontend library/framework will you use for a static portfolio website?         |
 |               **Context**             | A static portfolio website is not very complex and hence requires a framework that is easy to implement and integrate.                                                                                                                                            |
 | **OPTIONS CONSIDERED (Decision in bold)** |                                                                                        |
-|                                      | 1. **Vue Js**                                                                           |
+|                                      | 1. Vue Js                                                                           |
 |                                      | 2. React                                                                            |
 |                                      | 3. Angular                                                                          |
 |               **REASONING**           |                                                                                        |
@@ -26,4 +25,3 @@ created: 1685174614215
 |                                      | Vue js focuses on simplicity and ease of integration and has a gentle learning curve making it user-friendly. Though its community is not as big and mature as React and Angular, it would not significantly affect the progress of the project.              |
 |               **NOTES**               |                                                                                        |
 |                                      | Optional.                                                                              |
-|--------------------------------------|------------------------------------------------------------------------------------|
