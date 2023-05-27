@@ -2,7 +2,7 @@
 id: 8maqhf25xq7xgeatfb9vzw2
 title: D
 desc: ''
-updated: 1685189831646
+updated: 1685189844389
 created: 1685174614215
 ---
 
@@ -26,3 +26,4 @@ created: 1685174614215
 |                                      | Vue js focuses on simplicity and ease of integration and has a gentle learning curve making it user-friendly. Though its community is not as big and mature as React and Angular, it would not significantly affect the progress of the project.              |
 |               **NOTES**               |                                                                                        |
 |                                      | Optional.                                                                              |
+|--------------------------------------|------------------------------------------------------------------------------------|
