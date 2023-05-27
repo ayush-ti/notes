@@ -2,7 +2,7 @@
 id: 8maqhf25xq7xgeatfb9vzw2
 title: D
 desc: ''
-updated: 1685176155511
+updated: 1685186965478
 created: 1685174614215
 ---
 
@@ -13,12 +13,13 @@ created: 1685174614215
 | **Context**                                              | A static portfolio website is not very complex and hence requires a framework that is easy to implement and integrate. |
 |----------------------------------------------------------|------------------------------------------------------------------------------|
 
-| **OPTIONS CONSIDERED (Decision in bold)** |                                                                            |
-|                                           | 1. Vue Js                                                                     |
-|                                           | 2. React                                                                      |
-|                                           | 3. Angular                                                                    |
+|                                                                                     | 1. **Vue Js   |
+| **OPTIONS CONSIDERED (Decision in bold)**                                           | 2. React Js   |
+|                                                                                     | 3. Angular Js |
+|----------------------------------------------------------|------------------------------------------------------------------------------|
 
-| **REASONING**                                                                                                                   |                                                                            |
+
+**REASONING**                                                                                                                   |                                                                            |
 |--------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
 | Vue.js's smaller bundle size, simplicity, and built-in performance optimizations make it a compelling choice for this particular use case. |                                                                            |
 |                                                                                                                                |                                                                            |
