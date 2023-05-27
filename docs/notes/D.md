@@ -2,11 +2,12 @@
 id: 8maqhf25xq7xgeatfb9vzw2
 title: D
 desc: ''
-updated: 1685189778320
+updated: 1685189815409
 created: 1685174614215
 ---
 
 
+|--------------------------------------|------------------------------------------------------------------------------------|
 |               **THE PROBLEM**         | What frontend library/framework will you use for a static portfolio website?         |
 |               **Context**             | A static portfolio website is not very complex and hence requires a framework that is easy to implement and integrate.                                                                                                                                            |
 | **OPTIONS CONSIDERED (Decision in bold)** |                                                                                        |
