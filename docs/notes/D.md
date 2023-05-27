@@ -1,6 +1,6 @@
 ---
 id: 8maqhf25xq7xgeatfb9vzw2
-title: G(1)
+title: D
 desc: ''
 updated: 1685190104201
 created: 1685174614215
